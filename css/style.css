@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 25px;
     font-family: sans-serif;
 }
 article{
@@ -20,10 +19,18 @@ article h1{
     background-color: #be6b80;
     border-radius: 15px;
     text-align: center;
+    font-size: 25px;
+
 }
 article p{
     padding: 10px 0px 10px 10px;
+    font-size: 25px;
 }
 article img{
     width: 100%;
+}
+footer{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    font-family: 20px;
 }
