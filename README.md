@@ -1,2 +1,2 @@
-# Titulo
-una calculadora, mi proyecto
+# Calculadora Magica
+un proyecto para estudiantes
