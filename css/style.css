@@ -13,3 +13,8 @@ article{
     padding: 10px;
     width: 350px;
 }
+article h1{
+    background-color: blue;
+    border-radius: 15px;
+    text-align: center;
+}
