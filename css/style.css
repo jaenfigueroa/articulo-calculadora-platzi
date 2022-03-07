@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 article{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(53, 53, 53);
     color: white;
     border-radius: 10px;
     margin: 5px;
@@ -14,17 +14,12 @@ article{
     width: 350px;
 }
 article:hover{
-    background-color: rgb(53, 53, 53);
+    background-color: rgb(37, 37, 37);
 }
 article h1{
-    background-color: rgb(233, 116, 20);
+    background-color: #be6b80;
     border-radius: 15px;
     text-align: center;
-}
-article h1:hover{
-    background-color: aqua;
-    color: black;
-    transition: 1s;
 }
 article p{
     padding: 10px 0px 10px 10px;
