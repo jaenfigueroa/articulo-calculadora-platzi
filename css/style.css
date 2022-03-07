@@ -13,3 +13,9 @@ article{
     padding: 10px;
     width: 350px;
 }
+article p{
+    padding: 0px 10px;
+}
+article img{
+    width: 100%;
+}
