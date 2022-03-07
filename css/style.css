@@ -19,3 +19,8 @@ article p{
 article img{
     width: 100%;
 }
+article h1{
+    background-color: blue;
+    border-radius: 15px;
+    text-align: center;
+}
