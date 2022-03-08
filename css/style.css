@@ -30,15 +30,28 @@ article p{
 article img{
     width: 100%;
 }
+/* ----------------------------------------- */
 header{
     background-color: rgb(58, 50, 175);
+    margin-bottom: 25px;
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 5px 5px rgba(35, 28, 131, 0.534);
+}
+header h1{
     color: white;
     font-size: 50px;
-    margin-bottom: 25px;
-    padding: 20px 20px;
     text-transform: uppercase;
     font-weight: bold;
 }
+header h2{
+    color: white;
+    font-weight: lighter;
+}
+/* ----------------------------------------- */
+
 footer{
     background-color: rgb(47, 47, 150);
     color: white;
@@ -47,3 +60,4 @@ footer{
     padding: 50px 0px;
     margin-top: 40px;
 }
+/* ----------------------------------------- */
