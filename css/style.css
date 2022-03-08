@@ -29,3 +29,12 @@ article p{
 article img{
     width: 100%;
 }
+header{
+    background-color: rgb(58, 50, 175);
+    color: white;
+    font-size: 50px;
+    margin-bottom: 25px;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
