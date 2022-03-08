@@ -39,3 +39,11 @@ header{
     text-transform: uppercase;
     font-weight: bold;
 }
+footer{
+    background-color: rgb(47, 47, 150);
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 50px 0px;
+    margin-top: 40px;
+}
